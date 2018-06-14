@@ -92,6 +92,7 @@ layout | String | column | row / column
 selected | Boolean | false | true / false
 size | Number | 24 | positive numbers
 value | String | value assigned to label | any string
+labelStyle | Object | {color: '#444'} | any style allowed in StyleSheet
 
 ###### Horizontal (side by side)
 ```
